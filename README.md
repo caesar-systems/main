@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I’m an experienced IT Systems Administrator with
 - `infra-docs/` – Markdown documentation examples
 
 ## 🛠️ Ongoing
-Currently working on structured repositories to publish documentation and tools used in production environments for CPLP, New Contact, and EF Tecnologias.
+Currently working on structured repositories to publish documentation and tools used in production environments for [Comunidade dos Países de Língua Portuguesa](https://www.cplp.org), [New Contact](https://newcontact.pt), and [EF Tecnologias](https://ef.pt).
 
 ## 📫 Contact
 - 📧 cesar.conceicao@outlook.pt
-- 🌐 [LinkedIn](www.linkedin.com/in/césar-conceição-bb7b4575)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/césar-conceição-bb7b4575)
 
 ---
 
