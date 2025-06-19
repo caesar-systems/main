@@ -1,4 +1,4 @@
-www.linkedin.com/in/césar-conceição-bb7b4575# 👨‍💻 Caesar Systems - Infrastructure & Automation
+# 👨‍💻 Caesar Systems - Infrastructure & Automation
 
 Welcome to my GitHub profile! I’m an experienced IT Systems Administrator with over 12 years of hands-on experience managing hybrid infrastructures, including Windows Server, Linux (Samba AD), virtualization (Hyper-V, Proxmox, ESXi), networking (pfSense, VLANs), and backup strategies (Synology, Hetzner, OMV).
 
